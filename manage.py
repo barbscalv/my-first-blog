@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3.9.7
 
 """Django's command-line utility for administrative tasks."""
 import os
@@ -21,4 +21,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-3.
